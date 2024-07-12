@@ -46,6 +46,13 @@ main{
     margin: 12px 0;
 }
 
+.footer p {
+    text-align: center;
+    font-weight: 500;
+    background-color: black;
+    color: #FFF;
+}
+
 @media screen and (min-width : 300px) and (max-width : 768px){
 
     .Login-Main {
